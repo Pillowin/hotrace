@@ -1,0 +1,8 @@
+-Wall
+-Werror
+-Wextra
+-Iheader/
+-I./
+-Iinc/
+-g3
+-fsanitize=address
